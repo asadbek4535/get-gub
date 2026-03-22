@@ -1,7 +1,6 @@
 .parent {
   max-width: 1440px;
   height: 8356px;
-  margin: 100px auto;
 }
 
 header {
@@ -190,4 +189,116 @@ header {
   border: none;
   border-radius: 14px;
   margin-top: 20px;
+}
+
+.parent-12 {
+  margin-top: 150px;
+  width: 1140px;
+  height: 46px;
+  display: flex;
+  gap: 40px;
+  margin-left: 90px;
+}
+.parent-12 .chaild-9 {
+  background-color: #B9FF66;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  border-radius: 7px;
+  padding: 7px;
+}
+.parent-12 .chaild-10 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+}
+
+.parent-13 {
+  width: 1234px;
+  height: 326px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #191A23;
+  color: white;
+  margin-left: 50px;
+  border-radius: 45px;
+  margin-top: 50px;
+}
+.parent-13 .chaild-11 {
+  width: 288px;
+  height: 163px;
+  font-size: 18px;
+}
+.parent-13 .chaild-11 a {
+  text-decoration: none;
+  color: #B9FF66;
+}
+.parent-13 .chaild-12 {
+  width: 288px;
+  height: 163px;
+  font-size: 18px;
+}
+.parent-13 .chaild-12 a {
+  text-decoration: none;
+  color: #B9FF66;
+}
+.parent-13 .chaild-13 {
+  width: 288px;
+  height: 163px;
+  font-size: 18px;
+}
+.parent-13 .chaild-13 a {
+  text-decoration: none;
+  color: #B9FF66;
+}
+
+.parent-14 {
+  width: 1440px;
+  height: 51px;
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  margin: 90px;
+  margin-left: 50px;
+}
+.parent-14 h2 {
+  background-color: #B9FF66;
+  font-size: 40px;
+}
+.parent-14 p {
+  font-size: 18px;
+}
+
+.parent-15 {
+  width: 1234px;
+  height: 279px;
+  background-color: #B9FF66;
+  border-radius: 45px;
+}
+.parent-15 .chaild-14 {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.parent-15 .chaild-15 {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  font-size: 18px;
+}
+
+.parent-16 {
+  width: 1234px;
+  height: 159px;
+  background-color: #F3F3F3;
+  border-radius: 45px;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+  margin-top: 30px;
 }/*# sourceMappingURL=stayle.css.map */
